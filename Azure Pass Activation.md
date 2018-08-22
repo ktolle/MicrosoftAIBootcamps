@@ -1,6 +1,6 @@
-![ÐÐ° Ð´Ð°Ð½Ð½Ð¾Ð¼ Ð¸Ð·Ð¾Ð±ÑÐ°Ð¶ÐµÐ½Ð¸Ð¸ Ð¼Ð¾Ð¶ÐµÑ Ð½Ð°ÑÐ¾Ð´Ð¸ÑÑÑÑ: Ð¾Ð´Ð¸Ð½ Ð¸Ð»Ð¸ Ð½ÐµÑÐºÐ¾Ð»ÑÐºÐ¾ ÑÐµÐ»Ð¾Ð²ÐµÐº Ð¸ ÑÐµÐºÑÑ](media/43edb87f0c24b9e2f43d3d8ffb915d40.jpg)
+![Alice](media/43edb87f0c24b9e2f43d3d8ffb915d40.jpg)
 
-Azure Pass Activation
+#Azure Pass Activation
 
 *In one of the mails from organizers you will receive a special code which is
 needed for receiving free Azure Subscription. Below you will find the
