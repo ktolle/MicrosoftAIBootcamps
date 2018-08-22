@@ -1,6 +1,6 @@
 ![Alice](media/43edb87f0c24b9e2f43d3d8ffb915d40.jpg)
 
-#Azure Pass Activation
+# Azure Pass Activation
 
 *In one of the mails from organizers you will receive a special code which is
 needed for receiving free Azure Subscription. Below you will find the
@@ -39,19 +39,19 @@ corner of the app window.*
 
 Ok, now you ready to start the activation process
 
-Basically, you need to pass two steps:
+## Basically, you need to pass two steps:
 
 1.  Redeem your Azure Pass Promo Code
 
 2.  Activate your Subscription
 
-Step 1 – Redeeming a Microsoft Azure Pass Promo Code:
+## Step 1 – Redeeming a Microsoft Azure Pass Promo Code:
 
 Open a browser and navigate to <https://www.microsoftazurepass.com/>
 
 You will find the next screen
 
-![Machine generated alternative text: lnPrivate Home - Microsoft AzurEX + v CD e] https• ;uww.microsoftazurepass.com/ Microsoft Azure Ready to get started? Try Microsoft Azure Pass We're offering an Azure Pass, so for a limited time period, you can try Azure for free \*No credit card required Start \> Use the links below to learn more Redemption Process Guide Azure Documentation Explore Azure Personal Data 0 2018 Microsoft MY ACCOUNT SIGN IN sea Support Privacy & Cookies I Terms of Use ](media/64e2f4b50492202eca7d6f56b331aec3.png)
+![](media/64e2f4b50492202eca7d6f56b331aec3.png)
 
 Click Start
 
@@ -105,7 +105,7 @@ If everything is ok, you will see the following screen:
 
 Click on Activate. You will be redirected to account validation
 
-Step 2: Activate your subscription:
+## Step 2: Activate your subscription:
 
 Enter your personal information
 
