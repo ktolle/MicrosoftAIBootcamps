@@ -29,8 +29,6 @@ is shown, choose “New InPrivate window.”*
 
 ![Private Browsing, Incognito, InPrivate](media/a3680f825f9d4651ae60f9b69615cbce.png)
 
- 
-
 *Automatically Microsoft Edge will open new window. To verify that you are in
 InPrivate mode you will see the InPrivate label in a blue square in the top-left
 corner of the app window.*
@@ -60,22 +58,14 @@ the newly created MS account for this event!
 
 ![Machine generated alternative text: lnPrivate Sign in to your account https://login.microsoftonline.com/72fg88bf-86f1-41af-91ab-2d7cd011db47/oauth2/authorize?cIient_id=ca21d81b-8bfb-4c06-ggd3-d4g3cb2d82c6&response_mode=form_post&response_type=code+id_token&scope=openid+profiIe&state=Openlc Microsoft Sign in ihor.leontiev\@hotmail.com Can't access your account? Next 02018 Microsoft Terms of use Privacy & cookies ](media/43110b9709c9abcb796b8fd9fc5c833f.jpg)
 
- 
-
 ![Machine generated alternative text: lnPrivate Sign in to your account https://login.microsoftonline.com/common/federation/oauth2 Microsoft ihor.leontiev\@hotmail.com Stay signed in? Do this to reduce the number of times you are asked to sign in. Don't show this again No Yes https•å/login.microsoftonline.ccm/kms 02018 Microsoft Terms of use Privacy & cookies ](media/2064cfd37d8c62206907d815e58c9610.jpg)
-
- 
 
 Click Yes and you will be redirected to page with confirmation of your MS
 account which you will use to activate Azure pass
 
- 
-
 Confirm account - Click “Confirm” if the correct email address is listed.
 
 ![Machine generated alternative text: Submit Promo Code- + v CD https• ;uww.microsoftazurepass.com /SubmitPromoCode Microsoft Azure The following Microsoft Account will be used for Azure Pass. Given name: lhor Surname: Leontiev Microsoft Email: ihor.leontiev\@hotmail.com If the above email address is incorrect, please sign out and redeem using the correct Microsoft Account Confirm Microsoft Account \> 0 2018 Microsoft MY ACCOUNT 1.4 SIGN OUT Support Privacy & Cookies I Terms of Use I Personal Data ](media/6c0add47dda034cec227421b07d885a0.png)
-
- 
 
 When you click on button confirm you will see the text box with Promo code.
 
@@ -83,25 +73,17 @@ Here you need to type the promo code that you received by mail from organizers.
 
 ![Machine generated alternative text: Submit Promo Code- + v CD https• ;uww.microsoftazurepass.com /SubmitPromoCode Microsoft Azure The following Microsoft Account will be used for Azure Pass. Given name: lhor Surname: Leontiev Microsoft Email: ihor.leontiev\@hotmail.com If the above email address is incorrect, please sign out and redeem using the correct Microsoft Account Enter Promo code: Enter promo code Claim Promo Code 0 2018 Microsoft MY ACCOUNT 1.4 SIGN OUT Support Privacy & Cookies I Terms of Use I Personal Data ](media/508164b5188b2456fb9a7632ed81c8f1.png)
 
- 
-
 Copy and paste your code to the text box and click Claim
 
 ![Machine generated alternative text: Submit Promo Code- + v CD https• ;uww.microsoftazurepass.com /SubmitPromoCode Microsoft Azure The following Microsoft Account will be used for Azure Pass. Given name: lhor Surname: Leontiev Microsoft Email: ihor.leontiev\@hotmail.com If the above email address is incorrect, please sign out and redeem using the correct Microsoft Account Enter Promo code: WBRX8LD5KCFZ1 MWI 1M Claim Promo Code 0 2018 Microsoft MY ACCOUNT 1.4 SIGN OUT Support Privacy & Cookies I Terms of Use I Personal Data ](media/1d9a7acf72aa908310cfb01c07f4eb94.png)
-
- 
 
 Do not leave the page below: the process might take several minutes.
 
 ![Submit Promo Code- + v CD https• ;uww.microsoftazurepass.com /SubmitPromoCode Microsoft Azure We are processing your request Allow up to 5 minutes for this request to complete fully. Please do not navigate away from this page. Do not refresh your browser window, or press the Back button. 0 2018 Microsoft MY ACCOUNT 1.4 SIGN OUT Support Privacy & Cookies I Terms of Use I Personal Data ](media/28a4d510498e2bc0fb75f541323f993f.png)
 
- 
-
 If everything is ok, you will see the following screen:
 
 ![Redeemed- Microsoft 'X + v CD https• ;uww.microsoftazurepass.com /Redeemed Microsoft Azure Thank you for redeeming This Azure Pass offer provides the following: • \$1WUSD monthly credits (converted to local currency) • 1 month duration • View offer details Get started now: Activate \> Use the links below to explore Azure Explore Azure Azure Documentation 0 2018 Microsoft MY ACCOUNT 1.4 SIGN OUT an Azure Pas sea Support Privacy & Cookies I Terms of Use I Personal Data ](media/f3bacdedbf5cda424c861b16b79ac9a5.png)
-
- 
 
 Click on Activate. You will be redirected to account validation
 
@@ -109,35 +91,23 @@ Click on Activate. You will be redirected to account validation
 
 Enter your personal information
 
- 
-
 ![Redeemed - Microsoft Azur Azure - Sign up https:// signup.azure.com 1 2 Microsoft Azure Azure Pass ihor.leontiev\@hotmail.com A special offer that provides a monetary credit to try out Microsoft Azure services for one month Sign out lii About you Country/Region Ukraine First name lhor Last name Leontiev o Email address for important notifications ihor.leontiev\@hotmail.com Phone Example: 3112 34567 This field is required o By prueeding you acknowledge the privacy statement and subscription agreement Next Agreement ](media/203d9e4838ea1f52cbd1a6e942058e64.png)
-
- 
 
 */!\\ Attention - please provide the correct information, especially valid phone
 number and click Next - if everything is OK, you will see the next screen*
 
 ![Redeemed - Microsoft Azur Azure - Sign up https:// signup.azure.com 2 Microsoft Azure Azure Pass ihor.leontiev\@hotmail.com Sign out A special offer that provides a monetary credit to try out Microsoft Azure services for one month About you Agreement I agree to the subscription agreement, offer details. and privacy statement 1 would like information, tips, and offers from Microsoft or selected partners about Azure, including Azure Newsletter, Pricing updates, and other Microsoft products and services. English Privacy & Cookies Trademarks Legal Support Give us feedback C 2018 Microsoft ](media/a7d8242d367728d630930360e4b195e1.png)
 
- 
-
 Tick the first checkbox and after click Sign up
 
 Now you have to wait few minutes.
-
- 
 
 Below there are snapshots with examples of screens you might receive. Simply
 wait, no action needed.
 
 ![Redeemed - Microsoft Azur Azure - Sign up https:// signup.azure.com Microsoft Azure Azure Pass ihor.leontiev\@hotmail.com Sign out A special offer that provides a monetary credit to try out Microsoft Azure services for one month 1 About you 2 Agreement I agree to the subscription agreement, offer details. and privacy statement 1 would like information, tips, and offers from Microsoft or selected partners about Azure, including Azure Newsletter, Pricing updates, and other Microsoft products and services. Confirming your information... English Privacy & Cookies Trademarks Legal Support Give us feedback C 2018 Microsoft ](media/fe8d92d85e66cbac656fd4b2850261f1.png)
 
- 
-
 ![Redeemed - Microsoft Azur Azure - Sign up https:// signup.azure.com Microsoft Azure Azure Pass ihor.leontiev\@hotmail.com Sign out A special offer that provides a monetary credit to try out Microsoft Azure services for one month 1 About you 2 Agreement I agree to the subscription agreement, offer details. and privacy statement 1 would like information, tips, and offers from Microsoft or selected partners about Azure, including Azure Newsletter, Pricing updates, and other Microsoft products and services. Setting up your subscription.. English Privacy & Cookies Trademarks Legal Support Give us feedback C 2018 Microsoft ](media/744f1c0a448ef9b4785a2a662edf55a6.png)
-
- 
 
 ![Redeemed - Microsoft Azur Azure - Sign up https:// signup.azure.com Microsoft Azure Azure Pass ihor.leontiev\@hotmail.com Sign out A special offer that provides a monetary credit to try out Microsoft Azure services for one month 1 About you 2 Agreement I agree to the subscription agreement, offer details. and privacy statement 1 would like information, tips, and offers from Microsoft or selected partners about Azure, including Azure Newsletter, Pricing updates, and other Microsoft products and services. Set up is taking longer than usual.. English Privacy & Cookies Trademarks Legal Support Give us feedback C 2018 Microsoft ](media/bc9daaf13b44fdcd4fa8e785db0eb431.png)
 
@@ -152,6 +122,4 @@ each Artificial Intelligence bootcamp, starting with **Alice Envisions the
 future, Athens 2018.** Each teacher, parent or student can get to see what we’re
 building together and hopefully empower every Alice no matter where she is.
 
-![cid:image001.jpg\@01D434A5.F4DA6A70](media/43fef81e31d3a3a993a1eb1b9e732bb7.jpg)
-
-![cid:image002.jpg\@01D434A5.F4DA6A70](media/2623ce5e565ee70858d7e262e2b15361.jpg)
+[!![fb](media/43fef81e31d3a3a993a1eb1b9e732bb7.jpg)](https://www.facebook.com/MicrosoftAIBootcamps/) [!![instagramm](media/2623ce5e565ee70858d7e262e2b15361.jpg)](https://www.instagram.com/microsoft_ai_bootcamps/)
