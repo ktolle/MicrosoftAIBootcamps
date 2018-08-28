@@ -24,13 +24,13 @@ In this hands-on lab, you will learn how to:
 
 -   create a knowledge base, populate it with data and test it
 
--   reate a chat bot
+-   create a chat bot
 
--   onnect chatbot and knowledge base
+-   connect chatbot and knowledge base
 
 -   use your chat bot
 
--   itional channels to chatbot
+-   add additional channels to chatbot
 
 Hol prerequisites
 -----------------
